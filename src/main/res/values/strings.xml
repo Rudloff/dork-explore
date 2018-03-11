@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleExplorer</string>
+    <string name="hint">Search</string>
+    <string name="all">All</string>
+    <string name="video">Video,Movies</string>
+    <string name="gif">GIFs</string>
+    <string name="software">Software,Executables</string>
+    <string name="audio">Audio</string>
+    <string name="books">Books,Docs</string>
+    <string name="image">Images</string>
+</resources>
